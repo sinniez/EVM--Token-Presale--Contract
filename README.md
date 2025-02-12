@@ -47,9 +47,9 @@ If you want to know more about the functions, please refer to the [function](htt
 [MIT](./LICENSE)
 
 ## Contact
-Email: marksantiago0929@gmail.com
-Telegram: @marksantiago02
-Discord: @marksantiago02
-Twitter: @MarkSantiago02
-Instagram: @marksantiago_0929
-Linkedin: https://www.linkedin.com/in/mark-santiago-373172339/ 
+- Email: marksantiago0929@gmail.com
+- Telegram: @marksantiago02
+- Discord: @marksantiago02
+- Twitter: @MarkSantiago02
+- Instagram: @marksantiago_0929
+- Linkedin: https://www.linkedin.com/in/mark-santiago-373172339/ 
