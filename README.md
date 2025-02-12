@@ -41,7 +41,7 @@ Ethereum Mainnet for deployment
 Investors who bought tokens before sofcap reached are listed on early investors and can get bonus tokens after presale ends if unsold tokens exist.
 
 ## Funtion lists and descriptions
-If you want to know more about the functions, please refer to the [function](https://github.com/BTC415/ERC20-Token-Presale-smart-contract/blob/master/functionDescription.md) description.
+If you want to know more about the functions, please refer to the [function](https://github.com/BTC415/ERC20-Token-Presale-smart-contract/blob/master/function_description.md) description.
 
 ## License
 [MIT](./LICENSE)
