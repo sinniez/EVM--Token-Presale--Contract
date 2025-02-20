@@ -1,4 +1,4 @@
-# ERC20-Token-Presale-Smart-Contract
+# ERC20 Token Presale Smart Contract
 
 Build ERC20 Token and Launch a Token Pre-Sale
 
