@@ -1,6 +1,6 @@
 # ERC20 Token Presale Smart Contract
 
-Build ERC20 Token and Launch a Token Pre-Sale
+Build ERC20 Token and Launch a Token Presale
 
 The goal of this exercise is to build Ethereum-based ERC20 token and start a token pre-sale campaign (ICO).
 The code of token will be written in Solidity. Before we get started, MetaMask must be installed. Throughout this project, we will use Sepolia Testnet.
